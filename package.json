@@ -1,7 +1,7 @@
 {
   "name": "javascript-algorithms-and-data-structures",
   "version": "0.0.4",
-  "description": "Algorithms and data-structures implemented on JavaScript",
+  "description": "Algorithms and data-structures implemented in JavaScript",
   "main": "index.js",
   "scripts": {
     "lint": "eslint ./src/**/*.js",
